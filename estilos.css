@@ -1,0 +1,157 @@
+@charset "utf-8";
+#Todo {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#Banner  {
+    width: 800px;
+    height: 155px;
+    border-top-color: #1200FF;
+    border-top-style: none;
+}
+#Menu {
+    color: #FFFFFF;
+    text-shadow: 0px 0px #FFFFFF;
+    font-size: x-large;
+    font-weight: bolder;
+    word-spacing: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    background-color: #7B0413;
+    width: 800px;
+    height: 300px;
+    border-top-style: none;
+    border-top-color: #0200FF;
+}
+
+#Menu img {
+    text-align: left;
+    right: auto;
+    width: 230px;
+    height: 290px;
+    min-width: none;
+    min-height: none;
+    float: left;
+    background-color: #7B0413;
+    border-top-width: medium;
+    border-top-style: inset;
+    border-top-color: #0015FF;
+
+}
+
+#Header #Inicio #Titulo {
+    width: 300px;
+    font-size: 20px;
+    float: left;
+    background-color: #FFFFFF;
+}
+
+
+#Header #Inicio #Texto {
+    width: 800px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 30px;
+    clear: none;
+    float: left;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+#Header #Inicio #Hobbies {
+    width: 500px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 30px;
+    float: left;
+    background-color: #FFFFFF;
+}
+
+#Header #Inicio #TexHobbi {
+    width: 500px;
+    float: left;
+    font-size: 20px;
+    background-color: #FFFFFF;
+    height: 58px;
+
+}
+#Header #Inicio #Contenido {
+    width: 800px;
+    float: left;
+    background-color: #EAFC2E;
+
+}
+#Header #Inicio #Skills {
+    background-color: #CBF826;
+    width: 800px;
+    float: left;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: 30px;
+}
+#Header #Inicio #SkillText {
+    background-color: #CBF826;
+    font-size: 20px;
+    float: left;
+    width: 800px;
+}
+#Header #Inicio #Work {
+    font-size: 30px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: normal;
+    width: 800px;
+    float: left;
+    background-color: #FFFFFF;
+}
+#Header #Inicio #TextWork {
+    font-size: 20px;
+    float: left;
+    width: 800px;
+    background-color: #FFFFFF;
+}
+#Header #Inicio #Education {
+    font-size: 30px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: normal;
+    background-color: #CBF826;
+    width: 800px;
+    height: AUTO;
+    float: left;
+}
+#Header #Inicio #EducationText {
+    font-size: 20px;
+    background-color: #CBF826;
+    width: 800px;
+    float: left;
+}
+#Header #Inicio #REFERENCE {
+    font-variant: small-caps;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    float: left;
+    width: 800px;
+    background-color: #FFFFFF;
+}
+#Header #Inicio #REFERENCETEXT {
+    font-size: 20px;
+    width: 800px;
+    float: left;
+    background-color: #FFFFFF;
+}
+#Header #Inicio #FINAL {
+    width: 800px;
+    float: left;
+    height: 50px;
+}
